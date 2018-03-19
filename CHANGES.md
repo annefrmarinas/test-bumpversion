@@ -1,3 +1,6 @@
+Version 1.0.4:
+ - Create testfile.js
+
 Version 1.0.3:
 
 
