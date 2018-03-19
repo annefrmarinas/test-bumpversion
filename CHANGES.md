@@ -1,3 +1,9 @@
+Version 1.0.8:
+ - Version bump to 1.0.5
+ - Version bump to 1.0.5
+ - Version bump to 1.0.4
+ - Create testfile.js
+
 Version 1.0.5:
 
 
